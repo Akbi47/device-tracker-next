@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "username": "nghia.tong",
+      "fullName": "Tống Ngọc Hữu Nghĩa",
+      "email": "nghia.tong@gss-sol.com",
+      "userSkills": []
+    },
+    {
+      "id": "2",
+      "username": "tham.le",
+      "fullName": "Lê Thị Ngọc Thắm",
+      "email": "tham.le@gss-sol.com",
+      "userSkills": []
+    },
+    {
+      "id": "3",
+      "username": "phong.tran",
+      "fullName": "Trần Thanh Phong",
+      "email": "phong.tran@gss-sol.com",
+      "userSkills": []
+    },
+    {
+      "id": "4",
+      "username": "luan.le",
+      "fullName": "Lê Minh Luân",
+      "email": "luan.le@gss-sol.com",
+      "userSkills": []
+    },
+    {
+      "id": "5",
+      "username": "long.nguyen",
+      "fullName": "Nguyễn Tiến Long",
+      "email": "long.nguyen@gss-sol.com",
+      "userSkills": []
+    },
+    {
+      "id": "6",
+      "username": "thao.huynh.os",
+      "fullName": "Huỳnh Thị Phương Thảo",
+      "email": "thao.huynh.os@gss-sol.com",
+      "userSkills": []
+    },
+    {
+      "id": "7",
+      "username": "test1",
+      "fullName": "Test 1",
+      "email": "test1@gss-sol.com",
+      "userSkills": []
+    },
+    {
+      "id": "8",
+      "username": "test2",
+      "fullName": "Test 2",
+      "email": "test2@gss-sol.com",
+      "userSkills": []
+    },
+    {
+      "id": "9",
+      "username": "test3",
+      "fullName": "Test 3",
+      "email": "test3@gss-sol.com",
+      "userSkills": []
+    },
+    {
+      "id": "10",
+      "username": "test4",
+      "fullName": "Test 4",
+      "email": "test4@gss-sol.com",
+      "userSkills": []
+    },
+    {
+      "id": "11",
+      "username": "test5",
+      "fullName": "Test 5",
+      "email": "test5@gss-sol.com",
+      "userSkills": []
+    },
+    {
+      "id": "12",
+      "username": "test6",
+      "fullName": "Test 6",
+      "email": "test6@gss-sol.com",
+      "userSkills": []
+    }
+  ]
+}

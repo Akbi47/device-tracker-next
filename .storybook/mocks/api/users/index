@@ -1,0 +1,618 @@
+{
+  "data": [
+    {
+      "id": "5",
+      "username": "long.nguyen",
+      "fullName": "Nguyễn Tiến Long",
+      "email": "long.nguyen@gss-sol.com",
+      "phone": null,
+      "gPoint": 0.7,
+      "updatedAt": "2022-09-30T05:09:06.977Z",
+      "userSkills": [],
+      "projectUsers": [
+        {
+          "id": "3",
+          "joinDate": "2022-08-01",
+          "position": "DEV",
+          "project": {
+            "id": "3",
+            "name": "Annotation UI"
+          },
+          "projectUserPlans": [
+            {
+              "id": "4",
+              "month": "2022-08-01",
+              "plan": 100,
+              "actual": 100,
+              "note": null,
+              "updatedAt": "2022-09-30T05:10:11.178Z"
+            },
+            {
+              "id": "14",
+              "month": "2022-10-02",
+              "plan": 100,
+              "actual": null,
+              "note": "",
+              "updatedAt": "2022-10-01T19:40:36.224Z"
+            },
+            {
+              "id": "15",
+              "month": "2022-11-01",
+              "plan": 7,
+              "actual": 8,
+              "note": "9",
+              "updatedAt": "2022-10-02T16:06:37.744Z"
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "joinDate": "2022-10-01",
+          "position": "DEV",
+          "project": {
+            "id": "1",
+            "name": "Yoursup"
+          },
+          "projectUserPlans": [
+            {
+              "id": "19",
+              "month": "2022-07-01",
+              "plan": 0,
+              "actual": 0,
+              "note": "",
+              "updatedAt": "2022-10-04T08:02:04.941Z"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "joinDate": "2022-10-02",
+          "position": "TESTER",
+          "project": {
+            "id": "2",
+            "name": "IDOM"
+          },
+          "projectUserPlans": [
+            {
+              "id": "25",
+              "month": "2022-06-01",
+              "plan": 100,
+              "actual": 100,
+              "note": "",
+              "updatedAt": "2022-10-06T11:50:47.433Z"
+            },
+            {
+              "id": "27",
+              "month": "2022-08-01",
+              "plan": 100,
+              "actual": 0,
+              "note": "",
+              "updatedAt": "2022-10-02T17:13:15.157Z"
+            },
+            {
+              "id": "30",
+              "month": "2022-11-01",
+              "plan": 0,
+              "actual": null,
+              "note": "",
+              "updatedAt": "2022-10-02T17:13:08.314Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "username": "luan.le",
+      "fullName": "Lê Minh Luân",
+      "email": "luan.le@gss-sol.com",
+      "phone": null,
+      "gPoint": 1.2,
+      "updatedAt": "2022-09-30T04:52:07.211Z",
+      "userSkills": [
+        {
+          "id": "8",
+          "level": "Junior",
+          "skill": {
+            "id": "2",
+            "name": "Next.js"
+          }
+        },
+        {
+          "id": "7",
+          "level": "Mid_Senior",
+          "skill": {
+            "id": "4",
+            "name": "Java"
+          }
+        }
+      ],
+      "projectUsers": [
+        {
+          "id": "15",
+          "joinDate": "2022-10-01",
+          "position": "DEV",
+          "project": {
+            "id": "1",
+            "name": "Yoursup"
+          },
+          "projectUserPlans": [
+            {
+              "id": "20",
+              "month": "2022-07-01",
+              "plan": 0,
+              "actual": 0,
+              "note": "",
+              "updatedAt": "2022-10-04T08:02:04.956Z"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "joinDate": "2022-10-02",
+          "position": "DEV",
+          "project": {
+            "id": "3",
+            "name": "Annotation UI"
+          },
+          "projectUserPlans": [
+            {
+              "id": "13",
+              "month": "2022-10-02",
+              "plan": 50,
+              "actual": null,
+              "note": "",
+              "updatedAt": "2022-10-01T19:40:36.219Z"
+            },
+            {
+              "id": "18",
+              "month": "2022-11-01",
+              "plan": 10,
+              "actual": 11,
+              "note": "12",
+              "updatedAt": "2022-10-02T16:06:37.719Z"
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "joinDate": "2022-10-02",
+          "position": "DEV",
+          "project": {
+            "id": "2",
+            "name": "IDOM"
+          },
+          "projectUserPlans": [
+            {
+              "id": "24",
+              "month": "2022-06-01",
+              "plan": 100,
+              "actual": 100,
+              "note": "",
+              "updatedAt": "2022-10-06T11:50:47.390Z"
+            },
+            {
+              "id": "29",
+              "month": "2022-08-01",
+              "plan": 100,
+              "actual": 0,
+              "note": "",
+              "updatedAt": "2022-10-02T17:13:15.147Z"
+            },
+            {
+              "id": "31",
+              "month": "2022-11-01",
+              "plan": 0,
+              "actual": null,
+              "note": "",
+              "updatedAt": "2022-10-02T17:13:08.318Z"
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "joinDate": "2022-10-04",
+          "position": "PL",
+          "project": {
+            "id": "4",
+            "name": "Test"
+          },
+          "projectUserPlans": []
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "username": "nghia.tong",
+      "fullName": "Tống Ngọc Hữu Nghĩa",
+      "email": "nghia.tong@gss-sol.com",
+      "phone": "0367733655",
+      "gPoint": 2,
+      "updatedAt": "2022-09-30T04:18:25.012Z",
+      "userSkills": [
+        {
+          "id": "1",
+          "level": "Senior",
+          "skill": {
+            "id": "1",
+            "name": "ReactJS"
+          }
+        },
+        {
+          "id": "2",
+          "level": "Senior",
+          "skill": {
+            "id": "2",
+            "name": "Next.js"
+          }
+        },
+        {
+          "id": "3",
+          "level": "Senior",
+          "skill": {
+            "id": "3",
+            "name": "AngularJS"
+          }
+        },
+        {
+          "id": "4",
+          "level": "Mid_Senior",
+          "skill": {
+            "id": "4",
+            "name": "Java"
+          }
+        }
+      ],
+      "projectUsers": [
+        {
+          "id": "1",
+          "joinDate": "2022-08-01",
+          "position": "PM",
+          "project": {
+            "id": "3",
+            "name": "Annotation UI"
+          },
+          "projectUserPlans": [
+            {
+              "id": "1",
+              "month": "2022-08-01",
+              "plan": 10,
+              "actual": 10,
+              "note": null,
+              "updatedAt": "2022-09-30T05:07:33.345Z"
+            },
+            {
+              "id": "2",
+              "month": "2022-09-01",
+              "plan": 10,
+              "actual": 15,
+              "note": null,
+              "updatedAt": "2022-09-30T05:07:48.162Z"
+            },
+            {
+              "id": "11",
+              "month": "2022-10-02",
+              "plan": 10,
+              "actual": null,
+              "note": "",
+              "updatedAt": "2022-10-01T19:40:36.208Z"
+            },
+            {
+              "id": "16",
+              "month": "2022-11-01",
+              "plan": 1,
+              "actual": 2,
+              "note": "3",
+              "updatedAt": "2022-10-02T16:06:37.727Z"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "joinDate": "2022-08-15",
+          "position": "PM",
+          "project": {
+            "id": "1",
+            "name": "Yoursup"
+          },
+          "projectUserPlans": [
+            {
+              "id": "8",
+              "month": "2022-08-01",
+              "plan": 50,
+              "actual": 50,
+              "note": null,
+              "updatedAt": "2022-09-30T11:38:47.863Z"
+            },
+            {
+              "id": "21",
+              "month": "2022-07-01",
+              "plan": 0,
+              "actual": 0,
+              "note": "",
+              "updatedAt": "2022-10-04T08:02:04.937Z"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "joinDate": "2022-03-01",
+          "position": "PM",
+          "project": {
+            "id": "2",
+            "name": "IDOM"
+          },
+          "projectUserPlans": [
+            {
+              "id": "9",
+              "month": "2022-11-01",
+              "plan": 10,
+              "actual": 0,
+              "note": "Support",
+              "updatedAt": "2022-10-02T17:13:08.319Z"
+            },
+            {
+              "id": "22",
+              "month": "2022-06-01",
+              "plan": 10,
+              "actual": 5,
+              "note": "",
+              "updatedAt": "2022-10-06T11:50:47.381Z"
+            },
+            {
+              "id": "26",
+              "month": "2022-08-01",
+              "plan": 10,
+              "actual": 10,
+              "note": "",
+              "updatedAt": "2022-10-02T17:13:15.144Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "username": "phong.tran",
+      "fullName": "Trần Thanh Phong",
+      "email": "phong.tran@gss-sol.com",
+      "phone": null,
+      "gPoint": 2,
+      "updatedAt": "2022-09-30T04:51:34.611Z",
+      "userSkills": [],
+      "projectUsers": [
+        {
+          "id": "23",
+          "joinDate": "2022-10-06",
+          "position": "PM",
+          "project": {
+            "id": "2",
+            "name": "IDOM"
+          },
+          "projectUserPlans": [
+            {
+              "id": "32",
+              "month": "2022-06-01",
+              "plan": 10,
+              "actual": 10,
+              "note": "",
+              "updatedAt": "2022-10-06T11:50:47.427Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "username": "test1",
+      "fullName": "Test 1",
+      "email": "test1@gss-sol.com",
+      "phone": "245646521",
+      "gPoint": 1,
+      "updatedAt": "2022-10-04T05:06:32.493Z",
+      "userSkills": [],
+      "projectUsers": []
+    },
+    {
+      "id": "8",
+      "username": "test2",
+      "fullName": "Test 2",
+      "email": "test2@gss-sol.com",
+      "phone": "245646521",
+      "gPoint": 1,
+      "updatedAt": "2022-10-04T05:06:44.111Z",
+      "userSkills": [],
+      "projectUsers": []
+    },
+    {
+      "id": "9",
+      "username": "test3",
+      "fullName": "Test 3",
+      "email": "test3@gss-sol.com",
+      "phone": "245646521",
+      "gPoint": 1,
+      "updatedAt": "2022-10-04T05:06:54.306Z",
+      "userSkills": [],
+      "projectUsers": []
+    },
+    {
+      "id": "10",
+      "username": "test4",
+      "fullName": "Test 4",
+      "email": "test4@gss-sol.com",
+      "phone": "245646521",
+      "gPoint": 1,
+      "updatedAt": "2022-10-04T05:07:05.270Z",
+      "userSkills": [],
+      "projectUsers": []
+    },
+    {
+      "id": "11",
+      "username": "test5",
+      "fullName": "Test 5",
+      "email": "test5@gss-sol.com",
+      "phone": "245646521",
+      "gPoint": 1,
+      "updatedAt": "2022-10-04T05:07:18.926Z",
+      "userSkills": [],
+      "projectUsers": []
+    },
+    {
+      "id": "12",
+      "username": "test6",
+      "fullName": "Test 6",
+      "email": "test6@gss-sol.com",
+      "phone": "245646521",
+      "gPoint": 1,
+      "updatedAt": "2022-10-04T05:07:32.996Z",
+      "userSkills": [],
+      "projectUsers": [
+        {
+          "id": "5",
+          "joinDate": "2022-07-01",
+          "position": "DEV",
+          "project": {
+            "id": "1",
+            "name": "Yoursup"
+          },
+          "projectUserPlans": [
+            {
+              "id": "7",
+              "month": "2022-09-01",
+              "plan": 100,
+              "actual": null,
+              "note": null,
+              "updatedAt": "2022-09-30T11:36:25.532Z"
+            },
+            {
+              "id": "5",
+              "month": "2022-07-01",
+              "plan": 100,
+              "actual": 0,
+              "note": "",
+              "updatedAt": "2022-10-04T08:02:04.958Z"
+            },
+            {
+              "id": "6",
+              "month": "2022-08-01",
+              "plan": 100,
+              "actual": 100,
+              "note": null,
+              "updatedAt": "2022-09-30T11:36:47.191Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "tham.le",
+      "fullName": "Lê Thị Ngọc Thắm",
+      "email": "tham.le@gss-sol.com",
+      "phone": null,
+      "gPoint": 1.2,
+      "updatedAt": "2022-09-30T04:50:56.171Z",
+      "userSkills": [
+        {
+          "id": "5",
+          "level": "Junior",
+          "skill": {
+            "id": "1",
+            "name": "ReactJS"
+          }
+        },
+        {
+          "id": "6",
+          "level": "Mid_Senior",
+          "skill": {
+            "id": "3",
+            "name": "AngularJS"
+          }
+        }
+      ],
+      "projectUsers": [
+        {
+          "id": "2",
+          "joinDate": "2022-08-01",
+          "position": "PL",
+          "project": {
+            "id": "3",
+            "name": "Annotation UI"
+          },
+          "projectUserPlans": [
+            {
+              "id": "3",
+              "month": "2022-08-01",
+              "plan": 100,
+              "actual": 100,
+              "note": null,
+              "updatedAt": "2022-09-30T05:08:01.768Z"
+            },
+            {
+              "id": "12",
+              "month": "2022-10-02",
+              "plan": 80,
+              "actual": null,
+              "note": "",
+              "updatedAt": "2022-10-01T19:40:36.211Z"
+            },
+            {
+              "id": "17",
+              "month": "2022-11-01",
+              "plan": 4,
+              "actual": 5,
+              "note": "6",
+              "updatedAt": "2022-10-02T16:06:37.711Z"
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "joinDate": "2022-10-01",
+          "position": "DEV",
+          "project": {
+            "id": "2",
+            "name": "IDOM"
+          },
+          "projectUserPlans": [
+            {
+              "id": "10",
+              "month": "2022-11-01",
+              "plan": 80,
+              "actual": 0,
+              "note": "",
+              "updatedAt": "2022-10-02T17:13:08.324Z"
+            },
+            {
+              "id": "23",
+              "month": "2022-06-01",
+              "plan": 100,
+              "actual": 80,
+              "note": "",
+              "updatedAt": "2022-10-06T11:50:47.396Z"
+            },
+            {
+              "id": "28",
+              "month": "2022-08-01",
+              "plan": 100,
+              "actual": 0,
+              "note": "",
+              "updatedAt": "2022-10-02T17:13:15.158Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "username": "thao.huynh.os",
+      "fullName": "Huỳnh Thị Phương Thảo",
+      "email": "thao.huynh.os@gss-sol.com",
+      "phone": "245646521",
+      "gPoint": 1,
+      "updatedAt": "2022-09-30T11:31:42.019Z",
+      "userSkills": [],
+      "projectUsers": []
+    }
+  ]
+}
